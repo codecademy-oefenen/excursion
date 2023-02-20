@@ -1,4 +1,5 @@
 /* body styling */
+
 body {
     background-color: #000000;
     text-align: center;
@@ -6,6 +7,7 @@ body {
 }
 
 /* header styling */
+
 .header--main { 
     font-weight: normal;
     font-size: 50px;
@@ -17,7 +19,8 @@ body {
     font-size: 16px;
 }
 
-/* video styling */
+/* video en content styling */
+
 .phone-video {
     background-color: black;
     text-align: center;
@@ -31,6 +34,7 @@ body {
 }
 
 /* footer styling */
+
 .h4--main {
     color: grey;
 }
@@ -43,6 +47,7 @@ body {
 }
 
 /* copyright styling */
+
 #copyright {
     text-align: right;
     color: grey;
