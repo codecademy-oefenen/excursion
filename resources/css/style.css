@@ -30,3 +30,10 @@ body {
 .h4--main {
     color: grey;
 }
+
+.h4-footer--main {
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
